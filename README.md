@@ -7,9 +7,7 @@ This repository is dedicated to providing comprehensive tutorials, exercises, an
 - **Introduction to Quantum Computing**
 - **Qiskit Basics and Setup**
 - **Quantum Gates and Circuits**
-- **Quantum Algorithms** (e.g., Grover's, Shor's)
-- **Quantum Machine Learning**
-- **Real-world Applications**
+- **Quantum Algorithms** (e.g., Teleportation, Deutch-Joza's, Grover's)
 
 Whether you are new to quantum computing or want to advance your Qiskit skills, this course will provide you with the tools and knowledge to succeed in the quantum era.
 
